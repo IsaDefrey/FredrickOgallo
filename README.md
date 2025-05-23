@@ -1,4 +1,4 @@
-# Hi there, I'm Fredrick Ogallo 👋
+# <h1 align="center">Hi there, I'm Fredrick Ogallo 👋
 
 🚀 Back-End Web Development Learner | ☁️ Cloud & Data Enthusiast | 💻 Aspiring AWS Solutions Architect
 
@@ -65,4 +65,4 @@ As part of my learning journey, I commit to:
 
 ---
 
-💻 Always learning | 🧩 Always building | 💙 Always giving back
+<p align="center">💻 Always learning | 🧩 Always building | 💙 Always giving back
