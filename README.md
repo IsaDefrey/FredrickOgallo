@@ -1,6 +1,6 @@
 # <h1 align="center">Hi there, I'm Fredrick Ogallo 👋
 
-<h2 align="center">🚀 Back-End Web Development Learner | ☁️ Cloud & Data Enthusiast | 💻 Aspiring AWS Solutions Architect
+<p align="center">🚀 Back-End Web Development Learner | ☁️ Cloud & Data Enthusiast | 💻 Aspiring AWS Solutions Architect
 
 ---
 
